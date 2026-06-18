@@ -119,4 +119,3 @@ The project includes the following system models:
 
 ---
 
-## 📁 Project Structure
